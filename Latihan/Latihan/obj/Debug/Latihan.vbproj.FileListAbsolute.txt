@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\bin\Debug\Latihan.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\bin\Debug\Latihan.exe
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\bin\Debug\Latihan.pdb
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\bin\Debug\Latihan.xml
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.exe
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.xml
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.pdb
+c:\users\user\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.Form1.resources
+C:\Users\USER\documents\visual studio 2013\Projects\Latihan\Latihan\obj\Debug\Latihan.vbprojResolveAssemblyReference.cache
